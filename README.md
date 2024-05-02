@@ -1,7 +1,6 @@
 # Welcome to PW-Panel
 
-Web panel for PW 1.3.6 edit for RayzEnggiener
-
+Web Painel for PW 1.3.6 edited by RayzEnggiener created by hrace009
 
 
 ## Requirements
