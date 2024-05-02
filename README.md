@@ -1,13 +1,8 @@
-# Welcome to PW-Panel 👋
+# Welcome to PW-Panel
 
-![Version](https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](doc)
-[![License: GPLv2](https://img.shields.io/badge/License-GPLv2-yellow.svg)](lic)
-[![Twitter: hrace009](https://img.shields.io/twitter/follow/hrace009.svg?style=social)](https://twitter.com/hrace009)
+Web panel for PW 1.3.6 edit for RayzEnggiener
 
-> Web panel for Perfect World MMORPG private server, powered with laravel and tailwindcss
 
-### 🏠 [Homepage](https://youtube.com/c/hrace009)
 
 ## Requirements
 1. [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos) & [Git](https://github.com/git-guides/install-git)
@@ -25,21 +20,7 @@
    - .env
 ## Import to Database:
 ```
-/*
- Navicat Premium Data Transfer
 
- Source Server         : PWCI-Contabo
- Source Server Type    : MariaDB
- Source Server Version : 100148 (10.1.48-MariaDB)
- Source Host           : 154.26.128.50:3306
- Source Schema         : dbo
-
- Target Server Type    : MariaDB
- Target Server Version : 100148 (10.1.48-MariaDB)
- File Encoding         : 65001
-
- Date: 20/12/2023 12:41:47
-*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
@@ -702,6 +683,8 @@ php artisan pw:createAdmin
 * Github: [@hrace009](https://github.com/hrace009)
 * LinkedIn: [@harris-yogasara](https://linkedin.com/in/harris-yogasara)
 
-## 📝 License
-Copyright © 2022 [Harris Marfel](https://github.com/hrace009).
-Base Code From [@tomirons](https://github.com/tomirons/pw-web)
+## Edit
+👤 **RayzEnggenier**
+* Github: [@hrace009](https://github.com/Rayengsof)
+
+
